@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-535-business-analysis-using-financial-statements-spring-2003/2e2525c97d2e9567a13f7e8cee0f7d35_class5.pdf
+file: /media/courses/15-535-business-analysis-using-financial-statements-spring-2003/2e2525c97d2e9567a13f7e8cee0f7d35_class5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: class5.pdf
 uid: 2e2525c9-7d2e-9567-a13f-7e8cee0f7d35
