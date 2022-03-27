@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2114f9c9-48e1-7390-a010-c7aedf0fb399
 resourcetype: Other
 title: riskfactors.xls
 uid: 6358c2a4-840f-b9a2-4d93-aded7cd7c39f
