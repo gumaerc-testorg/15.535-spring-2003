@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-535-business-analysis-using-financial-statements-spring-2003/7d47b4f36b679b89133e6549fe724fd0_class16.pdf
+file: /courses/15-535-business-analysis-using-financial-statements-spring-2003/7d47b4f36b679b89133e6549fe724fd0_class16.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
