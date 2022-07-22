@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 70a33ecb-3af2-5e61-523f-0718ab257cb1
 ---
@@ -27,10 +31,10 @@ SOLUTIONS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Quiz 1 ([PDF]({{< baseurl >}}/resources/test1)) 
+Quiz 1 ({{% resource_link 6aea536b-40f4-0c8f-8502-30e17c4056c4 "PDF" %}}) 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/test1solutions))
+({{% resource_link 774d2fbf-025b-d60c-23f5-00d7d2407bba "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -39,10 +43,10 @@ Quiz 1 ([PDF]({{< baseurl >}}/resources/test1)) 
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Quiz 2 ([PDF]({{< baseurl >}}/resources/test2))
+Quiz 2 ({{% resource_link 2d7f3c1b-c6bc-c818-bed4-4b0fefa9d80b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/test2solutions))
+({{% resource_link 553bf603-f3b0-1260-b705-4edb16bd2282 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
