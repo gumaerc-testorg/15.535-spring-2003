@@ -5,6 +5,7 @@ file: /courses/15-535-business-analysis-using-financial-statements-spring-2003/6
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

@@ -5,6 +5,7 @@ file: /courses/15-535-business-analysis-using-financial-statements-spring-2003/5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment1.pdf
 uid: 5a061560-264b-328d-0dd0-69774063137c
 ---
 Valuation example: DELL Computer
-
