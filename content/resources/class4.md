@@ -3,6 +3,7 @@ content_type: resource
 description: Using Accounting Earnings for Valuation aka EBO Valuation or Abnormal
   Earnings Valuation or Residual Income Valuation
 file: /courses/15-535-business-analysis-using-financial-statements-spring-2003/dd6266a824767fed938ea29c9c3e07ce_class4.pdf
+file_size: 110936
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

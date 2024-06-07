@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-535-business-analysis-using-financial-statements-spring-2003/2d7f3c1bc6bcc818bed44b0fefa9d80b_test2.pdf
+file_size: 45424
 file_type: application/pdf
 learning_resource_types:
 - Exams
