@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Data Source: Prof. Ken French, Dartmouth College (http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)'
 file: /courses/15-535-business-analysis-using-financial-statements-spring-2003/6358c2a4840fb9a24d93aded7cd7c39f_riskfactors.xls
+file_size: 26112
 file_type: application/msword
 learning_resource_types:
 - Assignments
