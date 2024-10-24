@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Valuation example: DELL Computer'
-file: /courses/15-535-business-analysis-using-financial-statements-spring-2003/5a061560264b328d0dd069774063137c_assignment1.pdf
+file: /ol-ocw-studio-app/courses/15-535-business-analysis-using-financial-statements-spring-2003/5a061560264b328d0dd069774063137c_assignment1.pdf
 file_size: 533611
 file_type: application/pdf
 learning_resource_types:
