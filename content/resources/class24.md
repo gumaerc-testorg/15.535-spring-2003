@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-535-business-analysis-using-financial-statements-spring-2003/594cf127a0c70d0ce4c8ec410e7dfb86_class24.pdf
+file: /courses/15-535-business-analysis-using-financial-statements-spring-2003/594cf127a0c70d0ce4c8ec410e7dfb86_class24.pdf
 file_size: 115746
 file_type: application/pdf
 learning_resource_types:
